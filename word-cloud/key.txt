@@ -1,0 +1,250 @@
+Optimal design, Cost, Performance-based design, Reinforced concrete, Frame, Inelastic spectrum, Nonlinear static analysis
+
+Performance-based seismic design, State of development, Performance-based seismic evaluation, Performance assessment procedures, Example building
+High-performance fiber-reinforced cementitious composites, Beam-column joints, Seismic details, Reinforced concrete frames, Nonlinear static analysis
+Confinement, Fiber-reinforced polymer (FRP), Performance-based design, Pushover analysis, Reinforced concrete, Seismic retrofit, Structural optimization
+Highly ductile fiber-reinforced concrete, Beam-column connections, Seismic performance, Anchorage length, Assembly interface
+Building, Column, Concrete jacket, Interface, Reinforced concrete, Shear, Seismic strengthening, Seismic performance, Strut-and-tie model
+Reinforced concrete, Shear wall, Building, Collapse, Life safety, Stiffness, Fragility, Risk
+Reinforced concrete bridge column, Chloride-induced corrosion, Carbon fiber reinforced polymer, Cyclic pseudo-static test, Seismic retrofit
+High-strength concrete, HSC, Damage states, Damage index, Column, Seismic behavior, Performance levels, Special moment frame
+Reinforced concrete moment frame, Shape memory alloy, Hybrid plastic hinge, Inter-story drift, Residual displacement, Sequential hazard
+Wing walls, Reinforced concrete columns, Seismic retrofit, Reinforce concrete frame
+Life cycle assessment, Reinforced concrete, Seismic retrofit, Frame structures, Recycling
+Fiber-reinforced concrete, Bridge columns, Incremental dynamic analysis, Nonlinear static analyses, Seismic performance, Ground motions
+Seismic performance, Retrofitting, Precast structures, Manufacturing plants, Column type structure, Pinned beam-to-column connections, Lead extrusion damper
+Performance-based design, Pushover analysis, Virtual work, Plastic hinge, Structural optimization design, Optimality criteria method
+Bridge, Deterioration, FRCM, Seismic retrofit, Seismic reliability
+Concrete bridge piers, Coupled reinforcement, Shape memory alloy, Seismic fragility, Seismic resilience, Life-cycle seismic loss
+Shake table experiment, Subduction earthquake, Reinforced concrete circular bridge column, Plastic hinge zone
+High-strength concrete, High-strength steel bars, Slender column, Seismic behavior, Reinforcement strain, Finite element analysis, Ductility factor
+EAF slag, Reinforced concrete moment frames, Seismic fragility, Seismic reliability
+High ductile fiber-reinforced concrete, Unreinforced masonry walls, Retrofitted, Autoclaved aerated concrete blocks, In-plane cyclic loading, Ultimate lateral resistance
+High-strength steel bars (HSSB), Seismic performance, Ductility, Hysteretic energy dissipation, Bar buckling
+Reinforced concrete frame, Fish-bone model, MDOF model, Pseudo-dynamic test, Seismic analysis, Pushover analysis, Fragility analysis, FB, fish-bone, IFB, improved fish-bone, GF, generic frame, PsD, pseudo-dynamic
+Reinforced concrete shear walls, Reinforcement corrosion, Basalt fiber-reinforced polymer, Cyclic load, Repairing, Seismic performance, Strut-and-tie model
+Self-centering, Seismic design, Reinforced concrete, Concrete frame
+Steel reinforced concrete columns, Precast structures, Cyclic loading tests, Reactive powder concrete, Seismic performance
+Tunnel lining structures, Shaking table test, Seismic dynamic behavior, Polypropylene fiber reinforced concrete
+ASCE 7-10, BNBC-1993, IS-1893, Building code, Nonlinear response history analysis, Reinforced concrete frame, Seismic performance
+Engineered cementitious composite (ECC), Fibre-reinforced polymer (FRP), Hybrid-reinforced, Composite column, Experiment, Seismic behaviour, Ductility
+
+Recycled aggregate concrete, Sustainable development, FRP-steel composite tube, Seismic performance, Building lifecycle
+Segmental tunnel, Segmental joint, Steel fiber reinforced concrete, Hybrid fiber, Seismic performance
+Concrete-faced rockfill dam (CFRD), Steel fiber reinforced concrete, Plastic damage model, Generalized plasticity model
+Engineered cementitious composite (ECC), Permanent formwork, Steel reinforced column, Seismic behavior, Energy dissipation, Ductility
+Performance-based seismic design, HFD seismic design, Behavior factor, Reinforced concrete structures, Moment resisting frames, Inter-storey drift, Plastic rotation, Roof displacement, Effective stiffness
+Fiber Reinforced Concrete, Steel fibers, Response modification factor, Segmental tunnel, Seismic design, R-factor
+Unbonded prestressing bar, Residual crack width, Residual displacement, Self-centering, Bridge column
+Size effect, Seismic performance, High-strength reinforced concrete columns, Factor of safety, Local factor of safety, Moment capacity
+Steel Reinforced Concrete (SRC) frame structures, Seismic damage index, OpenSees, Seismic fragility analysis
+Section type, Infill wall, Reinforced masonry, Cyclic loading, Seismic performance
+Reinforced masonry, Mortarless walls, Seismic behaviour, Deformation capacity, Equivalent viscous damping
+Beam column-joint, Strengthening, Seismic performance, Hybrid FRP, Fibre reinforced polymer
+Shape memory alloys, Ultra-high performance concrete, Earthquake engineering, Pushover analysis, Incremental dynamic analysis, Ductility
+High-strength steel reinforcement, High-strength concrete, Reinforced concrete, Beam-column joints, Seismic performance, Finite-element analysis
+Seismic fragility, Reinforced concrete column, Shear failure, Flexure-shear interaction, Corrosion effect
+Double-column bent, Bridge pier, Steel tube confined reinforced concrete, Seismic behavior, Lateral resistance
+Dumb-bell RC pier, Dumb-bell steel tube confined RC pier, Seismic behavior, Lateral resistance model
+Seismic performance, Seismic retrofitting, RC buildings, Nonlinear modeling, Steel jacketing
+Timber-concrete composite structures, Beam-to-column joints, Connection types, Seismic performance, Initial rotational stiffness
+Basalt fiber-reinforced polymer (BFRP) tube, Recycled aggregate concrete (RAC), Steel tube, Composite column, Seismic behavior, Quasi-static test
+Endurance time method, Seismic performance, Soil-structure-interaction system, Reinforced concrete frame
+Performance-based seismic evaluation, Example building, Nonlinear static pushover analysis, Seismic performance, Modification factor
+Coupling beams, High toughness concrete (HTC), Strain-hardening cementitious composites (SHCC), Steel plate, Seismic performance, Steel plate ratios
+Partially corroded reinforced concrete columns, Large rupture strain, CFRP, PET-600, Anti-seismic performance
+Cyclic loading, Grouted couplers, Hybrid beam-to-column connection, Precast connections, Seismic performance
+Steel reinforced high-strength concrete, Seismic resistance, Rectangular spiral stirrup, High-strength concrete, Hysteresis loops, Columns
+Precast concrete-encased high-strength concrete-filled steel tube composite shear wall, Concrete-filled steel tube, Vertical connection, Quasi-static test, Seismic performance
+Seismic design, Eurocode 8, Environment, Embodied, CO, Optimization, Reinforced concrete, Genetic algorithms
+Seismic retrofit, Reinforced concrete columns, Steel jackets, Carbon fiber reinforced polymers, Concrete jackets, Shear strength, Nonlinear modeling parameters
+Steel plate reinforced concrete composite shear wall, Composite shear wall, Cyclic loading tests, Seismic behavior, Hysteretic model
+Ductility, Curvature, Hysteretic behavior, Seismic performance, Shear wall, Steel fiber
+Prefabricated reinforced masonry shear wall, Concrete masonry, Cyclic loading, Shear failure, Vertical joint, Seismic performance
+Prefabricated, Composite joint, Seismic performance, Quasi-static test
+Reinforced concrete (RC) frame, Post-fire, Seismic performance, Bearing capacity, Stiffness degradation, Energy dissipation, Plastic hinge, Column-to-beam bending capacity ratio
+Exterior cantilever frame, Strengthening, Retrofitting, Seismic performance, Ductility
+Mainshock-aftershock performance assessment, Time-dependent risk assessment, Seismic hazard analysis, Reinforced concrete moment frames
+Beam-column joint sub-assemblage, Shape memory alloy, Storey drift, Cyclic loading, Energy dissipation
+Seismic retrofit, Friction damper, Braced frame, Damping system, Seismic performance, Reinforced concrete
+GFRP bars, Seismic design, Moment frame, Pushover analysis
+Immersed tunnel, Seismic behaviours, Shear keys, Hybrid fibre reinforced concrete, Hysteretic tests, Analytical models
+Reinforced concrete intermediate short column, Seismic response, Failure mode, Shear spring
+Retrofitting, UHPFRC jackets, Cyclic loading, Fiber-based finite element
+Steel jacketing, Retrofitting, Genetic algorithm, Pushover, Optimization
+Masonry infill, Reinforced concrete buildings, Seismic capacity, Backbone curve, Equivalent strut width
+Concrete-encased CFST, Steel beam, Joint, Connection details, Seismic behaviour
+EPSC latticed concrete wall, RC frame, Shaking table test, Numerical analysis, Seismic performance
+RC beam-column joint, UHPFRC jacketing, Sandblasting, Prefabricated UHPFRC plates, Reverse cyclic test, Seismic performance
+Concrete-encased CFST, Reinforced concrete beam, Joint, Seismic performance, Cyclic loading
+Vrancea seismic source, Fragility functions, Ground motion recordings, Structural collapse, Ultiamte displacement
+Concrete-filled double-skin steel tube, Composite structures, RC shear walls, Prefabricated structures, Seismic behavior
+Low-cost glass fiber, Low strength concrete, Non-engineered reinforced concrete column, Cyclic loading, Axial load
+Unreinforced masonry, Reinforced masonry, Masonry wall, Damage index, Seismic performance
+Outside strengthening, Sub-structure, Precast, Steel-plate, Numerical model, Design procedure, Seismic upgrade, Dynamic response
+Beam-to-column joint, Finite element analysis, Precastconcrete, Seismic performance
+Hybrid fiber-reinforced concrete, High-performance fiber-reinforced cementitious composites, Reinforced concrete, Seismic, Bridge column, Accelerated bridge construction
+Hybrid damper, Reinforced concrete frame, Seismic performance, Non-ductile detail, Energy dissipation, Ductility, Stiffness, Cyclic loading, Seismic resilience
+Carbon fiber-reinforced polymer (CFRP) sheets, Composite steel-concrete frame joint, Seismic damage degree, CFRP reinforcement, Shear strength
+Steel reinforced concrete, Frame, Post-fire, Seismic performance, Hysteretic curve
+SFRC, Segmental tunnel, Seismic vulnerability, Fragility curve
+Steel corrugated plates, Composite walls, Seismic performance, Axial compression ratio, Shear span to depth ratio
+Reinforced concrete buildings, Building stock, Seismic capacity, Earthquake code
+Tuned mass damper (TMD), Active tuned mass damper (ATMD), Linear quadratic regulator (LQR), Masonry infill wall, Reinforced concrete (RC) building
+Fragility curves, IDA, Performance-based design, Building codes, Seismic risk analysis
+Performance-based assessment procedures, Damage indices, Damage concepts, Damage assessment
+Reinforced concrete moment-resisting frame, Electrochemically accelerated corrosion, Longitudinal reinforcement corrosion, Seismic performance, Corrosion effect
+TSRC column, Connection, Seismic behavior, Design model, Joint strength
+Failure mode classification, Machine learning, Reinforced concrete shear wall, Critical input parameters
+Prestressed steel reinforced concrete frame beam, Unbonded and bonded tendons, Seismic performance, Vertical cyclic loading
+Reinforced concrete, Short shear span, Shear walls, Seismic behaviour, Axial load collapse
+Reinforced concrete column, In-service, Quasi-static cyclic test, Seismic behavior, Corrosion, Shear strength
+Beam-column joint, Fiber-reinforced concrete, Quasi-static test, Seismic performance, Numerical simulation
+Bridge pier, Structural rehabilitation, Seismic retrofitting, High performance fibre reinforced concrete, Jacketing
+Textile-reinforced concrete (TRC), Reinforced concrete (RC) column, Axial compression ratio, Shear span ratio, Concrete strength grade, Seismic performance
+Reinforced engineered cementitious composites (RECC), Frames, Seismic performance, Performance-based Seismic Design (PBSD), Incremental Dynamic Analysis (IDA)
+Aleatory and epistemic uncertainty, Capacity spectrum, Ground motion, Pushover analysis, Variability function, Fragility curve, Vulnerability assessment
+Reinforced concrete tunnel form structures, Response modification factor, Asymmetric plan, Incremental dynamic analysis, Performance based earthquake engineering
+Exposed CFST column base, Reinforcing bars, Base plate type, Seismic behavior, -
+Sabah earthquake, Reinforced concrete structures, Wooden structures, Seismic performance, Seismic vulnerability
+High-strength low thermal conductivity foam concrete (HLFC), Compressive strength, Pre-cast shear wall, Seismic performance, Load-bearing capacity
+Beam-to-column connections, Cyclic load, Pin connections, Precast dowel connections, Precast building, Seismic performance
+Strengthening, Concrete jacket, Steel cage, Steel bracing, Cost-effectiveness, Structural optimization
+Column, Fire, Reinforced concrete, Seismic, Time after fire
+Concrete pipe, Seismic design, Soil-structure interaction, Evolutionary polynomial regression analysis, Bedding factor
+Monolithic prefabricate concrete shear wall structure, Shaking table test, Precast element, Seismic performance, Failure mechanism
+Headed bar, Self-consolidating concrete, Exterior beam-column joint, Cyclic loading, Seismic criteria, Relative head area
+Corrosion, Seismic damage limit state, Incremental dynamic analysis, Spatial variability, Vulnerability analysis, Fragility curve, Reinforced concrete
+Steel-enhanced damping concrete composite core wall, Embedded space steel truss, The quasi-static test, Seismic behavior, Finite element analysis
+Corroded RC column, Non-uniform corrosion, Seismic performance, Ductility, Energy dissipation
+Seismic vulnerability, Fragility curves, Girder bridges, Columns, Steel fibre reinforced concrete
+Fire damage, Frame, High-performance fiber-reinforced cementitious composites, Multi-hazard evaluation, Post-fire performance, Seismic behavior
+Column, CFRP jacketing, Ductility, Reinforced concrete, Retrofitting, Substandard, Steel tie
+Brewing spent diatomite, Recycled aggregate, Mechanical behavior, Recycled concrete, Structural concrete, Earthquake, Seismic response
+Steel-concrete composite, Structural wall, Seismic, CFRP, Repair
+Infill masonry, Reinforced concrete frame, Earthquake, INSYSME, Isolating element, INODIS, Decoupling
+RC columns, Confinement, Corrosion, Seismic performance
+UHPSFRC, Seismic behavior, Failure modes, Hysteretic loops, Skeleton curves, Strength and stiffness degradation, Energy dissipation capacity and ductility
+Concrete-filled steel tube, Precast wall, Composite wall, Axial force ratio, Loading rate, Seismic behavior
+Concrete-filled steel tube, RACFST columns, RAC, Seismic performance, FEM model, Grey correlation analysis
+URM, Masonry, Shaking table, Experimental test, Seismic behavior
+Seismic isolation, Friction pendulum devices, Seismic robustness, Structural performance, Seismic reliability, JPDFs, Connecting beams
+Direct displacement based design, Reinforced concrete, Irregular frame, Height irregularity, Seismic design, Ductility, Nonlinear analysis
+UHPC, Jacket, Seismic, Push-over, Vulnerability
+Semi-rigid connections, Composite frames, Pushover analysis, Inter-storey drift, Direct Displacement Based Design (DDBD)
+Polymer-matrix composites, Finite element analysis (FEA), Prepreg, FRP-strengthening, Reinforced concrete frame, Seismic reliability, Probabilistic approach
+Concrete filled steel tube (CFST), Non-through-core composite connection, Seismic behavior, Energy dissipation, Axial compression ratio
+Structural health monitoring, Damage evaluation, Capacity curve, Shaking table test, Earthquake
+Shape memory alloy, Collapse fragility, Collapse margin ratio, Maximum drift, Residual drift
+Precast concrete, Reinforced concrete, Infilled masonry wall, Seismic, Experimental study
+Geosynthetics, Slope, Concrete canvas, Reinforcement, Shaking table
+Reinforced concrete frame, Bhutan, Indian Seismic Code, Performance criteria, Fuzzy set theory, Interstorey drift, Structural damage, Soil structure interaction
+Seawater sea-sand concrete (SSC), Glass fiber reinforced plastic (GFRP), Shear wall, Cyclic load, Seismic performance
+Reinforced concrete coupled shear wall, Coupling beam, Non-linear time history analysis, CFRP retrofit method, Seismic performance, Old code, Modern code
+Masonry walls, Seismic retrofitting, Hollow concrete block, Reinforced concrete layer, In-plane response, Seismic performance
+Reinforced concrete column, High-Performance Fiber-Reinforced Cementitious Composite (HPFRC), Engineered Cementitious Composite (ECC), Sprayed mortar, Seismic retrofit
+Composite steel-concrete column, Encased steel jacket, Seismic damage, Finite element (FE) analysis, Seismic behavior
+Infill wall, Reinforced concrete, Shear wall, Soft story, Seismic response
+Design for deconstruction (DfD), Shear wall, Bolted end-plate, Seismic behavior, Disassembly and assembly
+Reinforced Masonry, Incremental Dynamic Analysis, Seismic Resilience, Masonry Boundary Elements, Fragility Functions, Macro-modelling approach
+Soil-structure interaction, Dynamic analyses, Reinforced concrete, Moment resisting frames
+Shape memory alloy, Damage states, Incremental dynamic analysis, Residual drift, Fragility curve
+FRP, Retrofitting, Seismic, Pushover, Time-history analysis
+Thin wall, Slender wall, Reinforced concrete, Cyclic behavior, Buckling, Welded wire mesh
+Coupled shear wall, Coupling beams, Diagonal reinforcement, Transverse reinforcement, Shear strength, Deformation capacity
+Reinforced concrete frames, Buckling-restrained braces, Near-fault ground motions, Seismic performance, Story shear ratio
+Punching shear, GFRP-reinforced concrete, Slab–column connection, Stirrups, Shear reinforcement, High-strength concrete, Drift capacity, Cyclic loading, Ductility
+Seismic behavior, Ancient timber structure, Carbon fiber reinforced polymer, Reinforce, Cumulative energy dissipation
+Reinforced concrete, Steel tube, Drilled shafts, Soil-structure interaction
+Damaged reinforced concrete columns, Pre-tensioned steel hoops, Axial compression ratio, Ductility
+Quasi-static test, inverted Y-shape reinforced concrete pylon, Cable-stayed bridge, Transverse seismic failure mechanism, Finite element method
+Recycled aggregate concrete (RAC) columns, Recycled coarse aggregate (RCA), Column, Cyclic loading, Seismic performance
+Seismic assessment, Corrosion, RC frames, Material degradation, Collapse mechanism
+Ductile design, Earthquake resistant systems, Experimental tests, Hybrid systems, Reinforced concrete infill walls
+Concrete column, Fiber-reinforced polymer (FRP), Basalt fiber, Seismic load, Ductility, Energy dissipation
+Steel truss reinforced concrete core walls, Composite shear wall, Cyclic loading, Seismic behavior, Finite element analysis
+Self-centering hybrid shear walls, Cyclic loading, Parametric analysis, OpenSees
+Displacement ductility, Reinforced concrete, Seismic response, Structural walls
+RC beam-column joint, Fiber-reinforced polymer (FRP), Strong beam-weak column, Shear deficiency, EBROG, FRP anchor fan, Plastic hinge relocation, Cyclic loading
+BP neural network, RBF neural network, Seismic performance assessment, Incremental dynamic analysis (IDA)
+Composite wall, Concrete-filled-steel-tube, High-strength manufactured sand concrete, Ring stirrup, Seismic behaviour
+Coupled wall, Conventionally and diagonally reinforced coupling beams, Seismic analysis, Analytical models, Degree of coupling, Parametric analyses
+Post-earthquake fire, Steel reinforced concrete, Structural wall, Shear wall, Load bearing wall, Seismic damage, Cracking, Fire resistance
+Seismic behaviors, Residual deformation, CFRP, PDHS steel rebar
+Confined masonry, Light weight cellular panels, Quasi-static test, Seismic parameters, Seismic behaviour, Finite element analysis
+RC structures, Strain rate effect, Shaking table test, Fiber beam-column element, Seismic response
+Cable-stayed bridges, Optimization, Seismic action, Concrete
+Concrete faced rockfill dam, Slab cracking, Cohesive zone model, Elasto-plastic analysis, Explicit analysis
+Reinforced concrete columns, Uniform risk, Displacement-based design, Target ductility factor, Multi-parameter probabilistic seismic demand model
+Reinforced concrete column, Reinforcement, Simplified buckling model, Seismic performance, Quasi-static test
+Carbon fiber reinforced polymer strengthening, Composite steel–concrete frame columns, Seismic damage, Finite element analysis, Seismic behavior
+Seismic retrofit, external RC concrete beam-column joints, Plain bars, Steel angles prestressed by cross ties
+Seismic testing, Bridge column, Self-consolidating concrete
+Steel plate reinforced concrete shear wall, Numerical model, Parametric study, Seismic performance
+Reinforced concrete frame, Seismic performance, Push-over analysis, Time-history analysis
+Reinforced concrete beams, Reinforcement corrosion, Corrosion location, Cyclic testing
+Underground structure, Seismic resistance, Shaking table test, Square concrete-filled steel tube (CFT) column, Soil-structure interaction
+High ductile fiber-reinforced concrete (HDC), Concrete hollow block masonry walls, Retrofitting, In-plane cyclic loading, Seismic behavior, Ultimate shear strength
+Seismic vulnerability, Seismic retrofitting, RC buildings, Infill walls, External steel bracings
+Seismic performance, Steel–polypropylene hybrid fiber, Reinforced concrete columns, Failure mode, Synergetic effect
+Ductility, Equivalent viscous damping, Reinforced masonry, Shear walls, Stiffness degradation, Seismic performance, Seismic force modification factor
+Flat connection, Lap-splice, Nuclear power plants, Steel-plate composite walls
+
+Steel fiber reinforced concrete, Seismic performance, Hollow piers, Cyclic loading test, Numerical simulation, Parametric analysis
+Strength reduction factor, Behavior factor, Reinforced concrete frames, Wall-frame dual system, Infilled-moment resisting frame, Performance-based seismic design
+Mixed GA-PSO-based approach, Performance-based design optimization, Reinforced concrete structures, Nonlinear static and dynamic analyses for design
+Geosynthetics, Reinforced soil retaining wall, Vertical seismic loading, Arias intensity, Seismic responses
+Post-fire earthquake, Fire, Multi-hazard, Reinforced concrete, Structural wall, Wall, Effective stiffness, Drift capacity
+Floor response spectra, Non-structural elements, Masonry infills, Seismic demand, Regional risk models
+Soil Structure Interaction, Dynamic Analyses, RC Moment resisting frames
+Building columns, FRP bars, Seismic performance, Failure mechanism, Post-yield stiffness, Residual displacement
+Acoustic emission, Damage evaluation, Reinforced concrete, Seismic loadings, Wavelet transform, -value
+Steel-reinforced concrete, Recycled coarse aggregate, Column, Cyclic loading, Seismic performance
+Multi-story buildings with special moment frames, three-component accelerograms, roof displacement, acceleration, base shear, inter-story drift, plastic hinges, life safety performance level
+Beam-column sub-assemblage, Corrosion, Damage progression, Energy dissipation, Stiffness and strength degradation
+Loss assessment, Seismic performance, Wall-frame buildings, Reinforced concrete, Fragility functions, Smooth rebars
+CFRP wraps, Quasi-static tests, Precast segmental columns, Resilience, Seismic repair
+Precast, Dry connection, Mechanical joint, Column–column joint, Column base joint, Bolted flange plate, Steel jacket
+Reinforced concrete, Structural degradation, Seismic vulnerability, Time variation, Cascading events, Aftershock sequence
+Seismic vulnerability, Seismic assessment, Reinforced concrete buildings, GIS visualization, Rapid visual screening
+Prefabricated, Beam-to-column joint, Seismic performance, Pseudo-static testing, Finite element analysis
+Correlation, Modeling uncertainty, Random effects regression, Uncertainty propagation, Collapse
+Architectural heritage, Materials, Concrete, Numerical analysis, Sacred heart of algiers, Non-destructive tests
+Adobe wall, Mechanical properties, Reinforcement method, Experimental study, Seismic performance, Cold–formed thin–walled steel
+Out-of-plane, Seismic behavior, CCWMTPC, Shaking table test, Finite element model
+Wall, Composite structure, High-rise building, Seismic design, Cold-formed and thin walled steel, Parametric analysis, Finite element analysis
+Shear wall, Shape memory alloy, Multi-strip analysis, Fragility analysis, Inter-story drift ratio, Residual displacement
+RM shear walls, Boundary elements, Ductility, Nonlinear analysis, Seismostruct, Seismic performance, Collapse fragility, Building height limits, FEMA P695
+Basalt fiber-reinforced polymer, Bars, Concrete, Bond strength, Cyclic loading, Slip corresponding to bond strength, Hysteretic curve area
+Precast concrete beam-column connection, Low-shrinkage engineered cementitious composites, Seismic performance, Bond slip, Interface, Joint shear strength
+Fire after earthquake, Fire safety assessment, Fire resistance, Reinforced concrete structure, Earthquake damage, Seismic assessment
+Masonry infill wall, RC frame, Shaking-table test, Seismic retrofit, Force-displacement model
+Concrete, Squat walls, Shear strength, Web reinforcement, Glass-fiber-reinforced polymer (GFRP), GFRP bar, Seismic
+Corrosion, RC column, LRS-FRP, Axial load ratio, Seismic behavior
+Precast system, Reinforced concrete precast elements, Beam-column connections, Stiffness degradation
+Bridges, Concrete filled steel tubes, Performance evaluation, Seismic hazard analysis, Incremental dynamic analysis
+Light shear reinforcement, Reinforced concrete columns, Seismic performance, Drift capacity, Nonlinear modeling parameters, Failure probability
+Reinforced concrete beam, Shear capacity, Strengthening, Fibre reinforced polymer, Natural fibre, Jute
+RC water tower, Nonlinear structural analysis, SAP2000, Finite element analysis, Seismic, Earthquake, Pushover, Capacity spectrum
+Axial force-bending moment interaction, Bouc-Wen model, Stochastic equivalent linearization, Reinforced concrete frame, Nonzero mean response, Seismic ductility demand
+Multiple seismic events, Seismic degradation, Seismic fragility, Reinforce concrete bridges
+Shaking table tests, Unreinforced masonry, Retrofit, High ductility fibre reinforced concrete, Dynamic response, Seismic evaluation
+Reinforced concrete, Walls, Openings, Shear
+T-shaped concrete-filled steel tubular (CFST), Ring-bar, Connections, Reinforced concrete (RC) beam with slab, Seismic behaviour
+Seismic Vulnerability Index using NL analytical approach, Seismic vulnerability index, Vulnerability curve, Parametric modeling, Damage grade/state, Nonlinear analysis, Engineering demand parameter
+Fire after earthquake, Fire safety assessment, Fire resistance, Reinforced concrete structure, Earthquake damage, Seismic assessment
+Thin-walled steel tube confined concrete columns, Fire tests, Finite element modelling, Parametric studies, Fire resistance, Design approach
+Elevated steel tank, Reinforced concrete column, Shear behavior, Fragility curve, Nonlinear analysis, Intensity measure
+Precast coupling beam, Engineered cementitious composites, Seismic performance, Axial force, Shear strength
+High-strength concrete, High-strength steel bars, Steel fiber reinforced concrete, Steel tube-reinforced concrete (STRC) composite columns, Seismic behavior, Cyclic loading test
+Precast concrete wall, Bracing, Shear span ratio, Seismic behavior, Pseudo-static test, Finite element analysis
+Composite shear wall, Seismic behavior, Ductility, FRP-confined concrete cores, Concrete-filled steel tube (CFST), CFRP tube
+High performance fiber reinforced cement composites, Synthetic fiber, Mechanical properties, Strain hardening, Beam-column joint connection, Hysteresis behavior
+Fiber-reinforced polymer (FRP), Wall panel, Seismic behavior, Shaking table test, Finite element modeling, Reinforced concrete wall
+APC, architectural precast concrete, BNCS, Building Nonstructural Components and Systems, UCSD, University of California, San Diego, FB, fixed base, PIDR, peak interstory drift ratio, PFA, peak floor acceleration, SDOF, single degree of freedom, PEER, pacific earthquake engineering research center, Precast concrete cladding, Cladding connections, Architectural concrete, Seismic accelerations, Seismic forces, Component amplification factor, Structure amplification factor
+Concrete, Reinforced, Concrete slabs, Retrofitting, Seismic response, Nonlinear analysis, Performance evaluation
+Precast sandwich wall, Quasi-static test, Resilience ability, Frictional energy dissipation, Numerical simulation
+Reinforced concrete wall, Lightly-reinforced wall, Debonded reinforcement, Fiber-reinforced concrete, Engineered cementitious composite, Repairability
+Torsion, Inelastic warping, Reinforced concrete, Shear walls, Cores, Fiber elements, Nonlinear seismic behavior, Wide-column analogy, Numerical model
+
+Freeze–thaw cycles, Reinforced concrete, Column, Cyclic loading, Seismic performance, Hysteretic curve, Experiment
